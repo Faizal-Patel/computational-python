@@ -6,3 +6,7 @@
 
 # venv help dir
 /venv_help
+
+
+# ds store
+.DS_Store
