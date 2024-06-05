@@ -1,0 +1,8 @@
+# computational math .gitignore
+.ipynb_checkpoints
+
+#python version:
+.python-version
+
+# venv help dir
+/venv_help
